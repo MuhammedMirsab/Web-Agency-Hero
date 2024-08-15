@@ -1,0 +1,35 @@
+body {
+    background-image: url(faded-office.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #020202;
+    font-family: "Open Sans", sans-serif;
+}
+
+#main-div {
+    padding: 50px 50px 0 50px ;
+    width: 400px;
+}
+
+#title {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.about {
+    font-size: 30px;
+}
+
+.underline {
+    border-bottom: 6px solid #0ea5e9;
+}
+
+#chat-btn {
+    background-color: #0ea5e9;
+    font-family: inherit;
+    padding: 20px 40px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    }
